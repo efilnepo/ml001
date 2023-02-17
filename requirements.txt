@@ -1,0 +1,12 @@
+## tensorflow
+spyder
+spyder-notebook
+#tensorflow
+tensorflow-cpu
+numpy
+
+## scikit-learn
+#scikit-learn
+
+##
+#matplotlib
